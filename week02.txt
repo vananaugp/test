@@ -16,4 +16,7 @@ week02
   git log
   git checkout hashcode
   git checkout -
+  git branch -M main
+  git remote add origin https://github.com/inhadeepblue/test.git
+  git push -u origin main
 
